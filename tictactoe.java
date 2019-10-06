@@ -5,6 +5,7 @@ import javax.swing.*;
 import Acme.*;
 import javax.swing.event.*;
 
+// sum of all filled squares for faster evaluation?
 public class tictactoe extends WindowController implements MouseListener,
        KeyListener {
 
@@ -355,8 +356,6 @@ public class tictactoe extends WindowController implements MouseListener,
     }
     return 0;
   }
-
-  // sum of all filled squares for faster evaluation?
 
   public int evaluate2 (int xo) {
     switch (turn) {
