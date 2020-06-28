@@ -6,3 +6,5 @@ To run the .jar file, run
     java -jar bicbacboebot.jar
     
 </p>
+with all the repo files in the same directory.
+Have fun!
