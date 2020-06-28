@@ -1,0 +1,3 @@
+Main-Class: tictactoe
+Class-Path: ../Acme.jar ../objectdraw.jar
+
